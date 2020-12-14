@@ -21,4 +21,8 @@ SO THAT my website can handle large amounts of unstructured data
 * express
 * mongoose
 
+## Demonstration
+
+For a walk-through of the API endpoints working correctly, you can watch my [YouTube](https://youtu.be/udOJlHDpfMQ) video demonstration.
+
 
